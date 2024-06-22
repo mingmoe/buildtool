@@ -1,0 +1,6 @@
+[submodule "library/quickjs"]
+	path = library/quickjs
+	url = https://github.com/mingmoe/quickjs
+[submodule "library/quickjspp"]
+	path = library/quickjspp
+	url = https://github.com/ftk/quickjspp
